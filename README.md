@@ -2,7 +2,7 @@
 
 This repository contains experiments and examples with **Apache Airflow** to build a robust data pipeline for real estate listings. It includes a step-by-step guide and example setup for running Airflow in Docker.  
 
-This pipeline technology was used in the **Skopje Apartments** project (private repository), which powers a real estate listings website: [Skopje Apartments](https://www.skopjeapartments.com).
+This pipeline technology was used in the **Skopje Apartments** project, which powers a real estate listings website: [Skopje Apartments](https://www.skopjeapartments.com).
 
 
 ##   Running Airflow in Docker
